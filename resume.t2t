@@ -1,16 +1,14 @@
 James de Assis Silva, MBA
 
 
-35 years old
+Email/hangouts: james.assis at gmail.com
 
-Phone: 21 9 9603.9230
+Facebook: jamesdeassis.silva
 
-Email: james.assis at gmail.com
-
-City: Rio de Janeiro / Brazil
+City: Canoas / RS / Brazil
 
 
-|   **IT INFRASTRUCTURE DEVELOPMENT / SYSTEM ADMINISTRATOR SENIOR**
+|   **IT INFRASTRUCTURE DEVELOPMENT**
 
 
 IT Infrastructure Analyst and Consultant with longstanding experience leading the implementation and
@@ -22,7 +20,7 @@ resourceful, flexible, innovative, and enthusiastic project manager using the be
 Professional with MBA and 10+ years of experience in Administration Technology.
 
 Currently I'm working at Globo.com, the internet branch of the largest mass 
-media group in South America and I'm responsible for sites like globoesporte.com and cartolafc. 
+media group in South America and I'm responsible for search engine and live transmission events systems.
 Design and deploy infrastructure solutions for all internal development teams. 
 Research new technologies that help build and run large scale, mission critical services at the web portal. 
 
@@ -33,6 +31,7 @@ Areas of Expertise
 - Enterprise Virtualization Systems
 - Database and Simulation Cluster
 - Operations Systems
+- Security
 - Physics Computation
 
 
@@ -43,12 +42,23 @@ Areas of Expertise
 
 == PROFESSIONAL EXPERIENCE ==
 
-=== Globo.com - Rio de Janeiro/RJ  ===
-The Major Communication portal of Brazil
 
-May 2013 to Present
+=== Globo.com - Porto Alegre/RS  ===
+
+May 2015 to present
 
 Position: System Administrator Senior
+
+=== Globo.com - Rio de Janeiro/RJ  ===
+
+The Major Communication portal of Brazil
+
+
+May 2013 to May 2015
+
+Position: System Administrator Senior
+
+Member of system administration team that works side by side with 20+ internal Scrum teams to design, build and validate the infrastructure solutions used at the portal. Development of a strong DevOps culture, bringing together developers and system administrators in an agile process focused on reducing time to market for new products. Consolidation of the internal efforts to build a private cloud based on Apache CloudStack and Tsuru PaaS. Responsible for sites like globoesporte.com and cartolafc.
 
 === Soma Investimentos - Porto Alegre/RS ===
 Multimedia Communication Provider
@@ -165,6 +175,6 @@ Email: Postfix, Sendmail, Spamassassin, DSPAM, SPF, Graylist, IMAP and POP;
 
 Firewall/UTM and VPN: Juniper, Cisco, IPTABLES, Mikrotik, OpenVPN, PF and IPFW.
 
-https://github.com/jas042
+**You can find this resumme updated on http://jas042.github.io/resume/
 
 http://br.linkedin.com/in/jamesassis
